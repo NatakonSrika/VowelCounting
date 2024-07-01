@@ -1,0 +1,2 @@
+# VowelCounting
+ JavaScript Project 
